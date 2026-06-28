@@ -5,3 +5,4 @@ data/tickets/
 data/embeddings/
 data/reports/
 .DS_Store
+tickets.json
